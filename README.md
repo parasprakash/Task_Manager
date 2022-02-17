@@ -1,3 +1,15 @@
+A Task Scheduler react application that uses a JSON-server as a mock backend to allow user to add,
+delete and toggle reminder on tasks.
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
